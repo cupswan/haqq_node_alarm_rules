@@ -1,6 +1,6 @@
 
 ### Setup 
-- Change YOUR_BOT_TOKEN and YOUR_GROUP_CHAT_ID in alertmanager/config.yml
+- Change TOKEN and YOUR_GROUP_CHAT_ID in alertmanager/config.yml
 Run using bash  
 - docker-compose up -d --build
 
